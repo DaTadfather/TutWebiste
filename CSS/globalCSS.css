@@ -1,0 +1,10 @@
+body
+{
+    background-color: lightgray;
+}
+
+.g_centerAlign
+{
+    margin: auto;
+    text-align: center;
+}

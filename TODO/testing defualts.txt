@@ -1,0 +1,10 @@
+<!-- Keeps a log of all the variables that are set for testing
+    Need to be changed for final release -->
+    
+quickUsersettings.php
+if(($_SESSION['admin']==1)) // Set to 1 for testing
+
+navBar.php
+if(($_SESSION['admin']) == 1) // set to 1 during testing
+
+Change Webpages: Headings -> check all the headings

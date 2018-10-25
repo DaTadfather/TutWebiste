@@ -1,0 +1,33 @@
+
+
+.card_center
+{
+    /* center everything inside the card*/
+    text-align: center;
+    
+    /* center the card to the middle of the screen*/
+    margin: auto;
+    
+    /*margin-top: %;    -- not needed for now*/
+    
+    /* add padding to all the card contents*/
+    padding: 2%;
+}
+
+.avatarCard
+{
+    
+    width: 80%;
+    height: 80%;
+        
+    border-radius: 40%;
+    margin: auto;
+ 
+}
+
+.avatarimg {
+    
+    /* shrink the avatar image width by a % */
+    width: 90%;
+}
+
